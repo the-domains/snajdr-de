@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[snajdr.de]]></title>
-        <description><![CDATA[snajdr.de]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Martin Snajdr]]></title>
+        <description><![CDATA[Martin Snajdr]]></description>
+        <link>https://thegrid.ai/snajdr-de/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Feb 2016 14:35:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 12 Feb 2016 14:40:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/snajdr-de/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Title of Yoda]]></title>
+            <description><![CDATA[<article><h1>Title of Yoda</h1><p>asdf</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/761b421a2f57e83178996835320e4e1309fcc006.jpg"></article>]]></description>
+            <link>https://thegrid.ai/snajdr-de/title-of-yoda/index.html</link>
+            <guid isPermaLink="false">c1825ee9-6466-426b-804f-249a3ad68d6a</guid>
+            <pubDate>Fri, 12 Feb 2016 14:40:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This is a test text</p>]]></description>
-            <link>undefined637e8a49-e166-4bb3-860f-6eaecd82e758/index.html</link>
+            <link>https://thegrid.ai/snajdr-de/637e8a49-e166-4bb3-860f-6eaecd82e758/index.html</link>
             <guid isPermaLink="false">637e8a49-e166-4bb3-860f-6eaecd82e758</guid>
             <pubDate>Fri, 12 Feb 2016 14:35:36 GMT</pubDate>
         </item>
