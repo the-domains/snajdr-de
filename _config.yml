@@ -1,7 +1,7 @@
 name: snajdr.de
 favicon: null
-layout_spectrum: 0.3171483788173646
-typography_spectrum: 0.18996014050208032
+layout_spectrum: 0.31008
+typography_spectrum: 0.64965
 title: Martin Snajdr
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.16657580551691353
+  brandStrength: 0.375
   lightness: 0.6941482538823038
-  saturation: 0.022315377835184336
+  saturation: 0.1875
   rhythmicContrast: 0.8340207373257726
 purpose: []
