@@ -1,19 +1,19 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-06-28T15:39:59.566Z'
-datePublished: '2017-06-28T15:40:00.278Z'
-title: CERTIFICATIONS
+dateModified: '2017-06-28T15:40:09.876Z'
+datePublished: '2017-06-28T15:40:10.434Z'
+title: Certifications
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-06-28-certifications.md
 starred: false
 datePublishedOriginal: '2017-06-28T15:40:00.278Z'
-sourcePath: _posts/2017-06-28-certifications.md
 _type: Blurb
 
 ---
-# CERTIFICATIONS
+# Certifications
 
 ## Certified Scrum Master
 
