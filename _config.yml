@@ -1,29 +1,44 @@
-name: snajdr.de
-favicon: null
-layout_spectrum: 0.31008
-typography_spectrum: 0.64965
-title: Martin Snajdr
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0.732882118705697
+typography_spectrum: 0.576549621010107
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  brandStrength: 0.9881981722966279
+  lightness: 0.1542805800325062
+  saturation: 0.9005473162826741
+  rhythmicContrast: 0.7025444691193907
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.375
-  lightness: 0.6941482538823038
-  saturation: 0.1875
-  rhythmicContrast: 0.8340207373257726
-purpose: []
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: snajdr.de
+url: 'https://snajdr.de'
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Blog
+    url: 'https://blog.snajdr.de'
+    type: external
+favicon: null
+title: Martin Snajdr
+content: []
+description: Creative Technologist
+purpose:
+  - type: contact
+    url: 'mailto:martin@snajdr.de'
+    label: Contact me
+author:
+  name: Martin Snajdr
+  email: martin@snajdr.de
+  url: 'http://snajdr.de'
+github: true
