@@ -7,13 +7,14 @@ description: >-
   Each day is dedicated to a specific topic and structured around overview talks
   and one-on-one mentorships sessions with top-notch external and Google
   internal mentors. The goal is to achieve rapid progress in a very short time.
-dateModified: '2017-06-28T15:43:06.233Z'
-datePublished: '2017-06-28T15:43:06.412Z'
+dateModified: '2017-06-28T15:46:39.203Z'
+datePublished: '2017-06-28T15:46:40.115Z'
 title: Coach & Speaker
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-06-28-coach-and-speaker.md
+hasPage: false
 starred: false
 datePublishedOriginal: '2017-06-28T15:42:50.763Z'
 _type: Blurb
