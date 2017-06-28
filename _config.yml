@@ -31,12 +31,12 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Blog
-    url: 'https://blog.snajdr.de'
-    type: external
   - name: Coach & Speaker
     id: 2bd33a62-4041-4d78-986e-87b173d724ae
     type: content
+  - name: Blog
+    url: 'https://blog.snajdr.de'
+    type: external
 favicon: null
 title: Martin Snajdr
 content: []
