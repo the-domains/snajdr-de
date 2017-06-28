@@ -2,21 +2,15 @@
     <channel>
         <title><![CDATA[Martin Snajdr]]></title>
         <description><![CDATA[Martin Snajdr]]></description>
-        <link>https://thegrid.ai/snajdr-de/</link>
+        <link>http://snajdr.de/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Feb 2016 14:40:50 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/snajdr-de/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Title of Yoda]]></title>
-            <description><![CDATA[<article><h1>Title of Yoda</h1><p>asdf</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/761b421a2f57e83178996835320e4e1309fcc006.jpg"></article>]]></description>
-            <link>https://thegrid.ai/snajdr-de/title-of-yoda/index.html</link>
-            <guid isPermaLink="false">c1825ee9-6466-426b-804f-249a3ad68d6a</guid>
-            <pubDate>Fri, 12 Feb 2016 14:40:24 GMT</pubDate>
-        </item>
+        <lastBuildDate>Wed, 28 Jun 2017 15:46:42 GMT</lastBuildDate>
+        <atom:link href="http://snajdr.de/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Wed, 28 Jun 2017 15:46:40 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>This is a test text</p>]]></description>
-            <link>https://thegrid.ai/snajdr-de/637e8a49-e166-4bb3-860f-6eaecd82e758/index.html</link>
+            <description><![CDATA[<p>I call myself an <em>Effectivity &amp; Efficiency Enthusiast</em>, always trying to find the most convenient but flexible way with the best possible result, especially in a long-term view.<strong></strong>I have worked in, with and for the internet for over fifteen years, and thus I know that the internet is much more than websites and more than software development.</p>,<p>Finding ways and solutions for the new challenges arising, having so many touch points in every area of our lives, that’s what drives my motivation. Not only from a user’s perspective, but also from a creator's point of view.</p>]]></description>
+            <link>http://snajdr.de/637e8a49-e166-4bb3-860f-6eaecd82e758/index.html</link>
             <guid isPermaLink="false">637e8a49-e166-4bb3-860f-6eaecd82e758</guid>
             <pubDate>Fri, 12 Feb 2016 14:35:36 GMT</pubDate>
         </item>
